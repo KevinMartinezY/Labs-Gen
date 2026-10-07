@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+#green {
+  color:green;
+}
+
+#red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+
+img {
+  margin: auto;
+  height: 200px;
+}
