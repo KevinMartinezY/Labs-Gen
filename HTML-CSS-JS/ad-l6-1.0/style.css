@@ -3,3 +3,10 @@ html {
     width: 100%;
   }
   
+  .btn-secundary{
+    border-color: aqua;
+  }
+
+.btn-primary {
+  border-color: blueviolet;
+}
